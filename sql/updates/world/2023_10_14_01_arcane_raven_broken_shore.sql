@@ -1,0 +1,1 @@
+UPDATE waypoint_data_script SET position_z = 1.66 WHERE entry = 11322708 AND POINT = 21;

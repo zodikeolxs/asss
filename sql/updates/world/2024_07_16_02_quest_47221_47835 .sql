@@ -1,0 +1,1 @@
+update quest_template set questtype=3 where id in (47221, 47835);

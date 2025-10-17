@@ -1,0 +1,1 @@
+ALTER TABLE `characters` ADD COLUMN `isPlayerbot` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 AFTER `transfer_history`;

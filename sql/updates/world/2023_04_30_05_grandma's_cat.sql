@@ -1,0 +1,1 @@
+UPDATE `creature` SET `PhaseMask`='21505' WHERE  `id`=36459;
